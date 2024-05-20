@@ -30,7 +30,7 @@ btn.addEventListener("click", function (e) {
         parabens_tentativas.innerHTML = `Parabéns, você acertou com ${tentativas} ${acerto}`;
         buton.style.visibility = 'visible';
     }
-});
+}); 
 
 
 

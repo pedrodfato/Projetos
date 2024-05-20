@@ -86,3 +86,7 @@ h2 {
     font-size: 32px;
     font-weight: 400;
 }
+
+*::selection{
+    background-color: #ffa300;
+}
