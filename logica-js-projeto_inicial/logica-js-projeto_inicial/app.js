@@ -29,6 +29,7 @@ btn.addEventListener("click", function (e) {
         let acerto = tentativas > 1 ? 'tentativas' : 'tentativa';
         parabens_tentativas.innerHTML = `Parabéns, você acertou com ${tentativas} ${acerto}`;
         buton.style.visibility = 'visible';
+        troph.style.display = 'block';
     }
 }); 
 

@@ -74,6 +74,8 @@ body::before {
 h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 72px;
+    line-height: 0.9em;
+    padding-bottom:15px;
 }
 
 h2,
@@ -87,6 +89,73 @@ h2 {
     font-weight: 400;
 }
 
-*::selection{
-    background-color: #ffa300;
+h3{
+    font-family:  Arial, Helvetica, sans-serif;
+    padding-bottom:8px;
 }
+
+*::selection{
+    background-color: blue;
+}
+
+#numero{
+    border: 2px solid #1875E8;
+    border-width: 0px 0px 5px 5px;
+    border-radius: 5px;
+    padding: 5px 15px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.308);
+    color:black;
+    font-size: 14px;
+}
+
+#numero:focus{  
+    border-color:#1D1E6A;
+}
+
+#numero:hover{  
+    border-color:#D264D5;
+}
+
+#send{
+    margin-left:15px;
+    background: linear-gradient(to right, #1875E8,#D264D5);
+    color:white;
+    font-weight: 700;
+    padding: 7px 15px;
+    border: 2px solid #1875E8;
+    border-width: 0px 0px 5px 5px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    transition: 0.5s ease;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.308);
+}
+
+#send:hover{
+    transform: scale(1.1);
+    cursor:pointer;
+}
+
+#parabens{
+    padding-top:15px;
+}
+
+#button{
+    margin-top:15px;
+    background: linear-gradient(to right, #1875E8,#D264D5);
+    color:white;
+    font-weight: 700;
+    padding: 7px 15px;
+    border: 2px solid #1875E8;
+    border-width: 0px 0px 5px 5px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    transition: 0.5s ease;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.308);
+}
+
+
+#button:hover{
+    transform: scale(1.1);
+    cursor:pointer;
+}
+
