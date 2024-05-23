@@ -1,2 +1,3 @@
 Número Secreto - Alura
-https://pedrodfato.github.io/projetos/logica-js-projeto_inicial/logica-js-projeto_inicial/
+<br>
+<a href="https://pedrodfato.github.io/projetos/logica-js-projeto_inicial/logica-js-projeto_inicial/">Acessar</a>
