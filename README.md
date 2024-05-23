@@ -1,6 +1,6 @@
 Número Secreto - Alura
 <br>
-<a href="https://pedrodfato.github.io/projetos/logica-js-projeto_inicial/logica-js-projeto_inicial/"><button style="margin-top:15px;
+<a href="https://pedrodfato.github.io/Projetos/logica-js-projeto_inicial/logica-js-projeto_inicial/"><button style="margin-top:15px;
     background: linear-gradient(to right, #1875E8,#D264D5);
     color:white;
     font-weight: 700;
