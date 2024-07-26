@@ -11,7 +11,4 @@ Número Secreto - Alura
     border-radius: 5px;
     transition: 0.5s ease;
     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.308);">Acessar</button></a>
-<style>
-body{
-background-color:#f7f7f7;
-</style>
+
